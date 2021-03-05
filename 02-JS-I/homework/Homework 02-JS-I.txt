@@ -1,0 +1,9 @@
+Variables: Es algo donde puedes guardar un objeto, para que luego puedas utilizarlo.
+
+Strings: Son textos, frases u oraciones.
+
+Funciones (argumentos, return): Son mini programas, que pueden recibir o no algunos objetos para transformarlos y hacer operaciones con ellos, y luego se devuelven como una respuesta.
+
+Declaraciones if: Son partes del programa que se ejecutan si se cumple la condición que le pongamos.
+
+Valores booleanos (true, false): Son valores de verdadero o falso, por ejemplo, activar o desactivar, encender o apagar.

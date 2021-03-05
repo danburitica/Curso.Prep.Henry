@@ -1,0 +1,3 @@
+for: Es una forma de hacer ciclos dentro de un programa, es decir, puedes recorrer una lista por ejemplo de principio a fin, y se termina cuando nosotros le digamos en la condición.
+
+&&, ||, !: Son operadores para utilizar en las condiciones, por ejemplo && significa Y, || significa O y ! significa negación.
