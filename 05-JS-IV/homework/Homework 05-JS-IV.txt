@@ -1,0 +1,9 @@
+Objetos: Son contenedores donde podemos guardar mucha información acerca de una sola cosa.
+
+Propiedades: Son los valores que guardamos dentro del objeto, lo que contiene la información.
+
+Métodos: Son pequeños programas (funciones) que guardamos dentro del objeto.
+
+Bucle for…in: Es una forma de recorrer la información que tenemos almacenada en el objeto.
+
+Notación de puntos vs notación de corchetes: Con la notación de puntos podemos acceder a las propiedades de un objeto, de la forma objeto.propiedad, y con la notación de corchetes, lo podemos hacer de la forma objeto['propiedad']
