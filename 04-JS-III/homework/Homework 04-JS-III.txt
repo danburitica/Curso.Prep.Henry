@@ -1,0 +1,1 @@
+Arrays: Son como las variables, pero en forma de lista o matriz, aquí podemos guardar muchos datos, y de cualquier tipo.
