@@ -1,0 +1,3 @@
+prototype: Es un objeto superior al que todos los demás objetos en javascript tienen acceso, este puede contener propiedades o métodos a los que se puede acceder.
+
+Constructors (de Clases): Son plantillas con las cuales se crean otros objetos que tienen las mismas propiedades o métodos.
