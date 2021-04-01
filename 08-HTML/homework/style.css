@@ -1,0 +1,32 @@
+h1 {
+	color: green;
+}
+img {
+	width: 400px;
+}
+div {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: lightgreen;
+	padding: 50px;
+	border: 5px solid blue;
+}
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+#fondo {
+	background-image: url("https://italiano-al-caffe.com/wp-content/uploads/2020/01/historia-de-la-bandera-italiana3.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+#opacity {
+	background-color: rgba(255, 255, 255, 0.8);
+	background-size: cover;
+}
